@@ -53,3 +53,11 @@ function App() {
 }
 
 export default App;
+
+{
+  /* <div className='mb-2 bg-cyan-500 text- text-gray-600 py-3 rounded-md'>
+<h3 className='font-bold underline text-2xl text-blue-950 uppercase'>
+  note heading
+</h3>
+<p className='capitalize'>note details</p> */
+}
